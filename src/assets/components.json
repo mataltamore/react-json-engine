@@ -1,0 +1,79 @@
+[
+  {
+    "name": "cards",
+    "order": 0,
+    "props": {
+      "backgroundColor": "black",
+      "list": [
+        {
+          "order": 0,
+          "title": "Title1",
+          "subtitle": "Subtitle1",
+          "description": "This is a basic description 1",
+          "rating": 3,
+          "links": [
+            {
+              "order": 0,
+              "label": "Click me1.1",
+              "icon": {
+                "type": "Phone",
+                "position": "left"
+              },
+              "url": ""
+            },
+            {
+              "order": 0,
+              "label": "Click me1.2",
+              "icon": {
+                "type": "Tablet",
+                "position": "right"
+              },
+              "url": ""
+            }
+          ]
+        },
+        {
+          "order": 1,
+          "title": "Title2",
+          "subtitle": "Subtitle2",
+          "description": "This is a basic description 2",
+          "rating": 5,
+          "links": [
+            {
+              "order": 0,
+              "label": "Click me2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "title": "Title3",
+          "subtitle": "Subtitle3",
+          "description": "This is a basic description 3",
+          "rating": 1,
+          "links": [
+            {
+              "order": 0,
+              "label": "Click me3",
+              "icon": {
+                "type": "Phone",
+                "position": "right"
+              },
+              "url": ""
+            },
+            {
+              "order": 0,
+              "label": "Click me3",
+              "icon": {
+                "type": "Tablet",
+                "position": "right"
+              },
+              "url": ""
+            }
+          ]
+        }
+      ]
+    }
+  }
+]
